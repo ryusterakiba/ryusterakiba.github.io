@@ -1,5 +1,5 @@
 ---
-permalink: /               # Slash defines this file as the root page
+permalink: /             # Slash defines this file as the root page
 layout: single 
 author_profile: true
 author: Ryu Akiba
@@ -7,10 +7,9 @@ title: "Ocean worlds"
 excerpt: "Exploring oceans everywhere"
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/golden_gate_sunset.jpg
+  overlay_image: /assets/images/golden_gate_sunset.JPG
   caption: "Sunset by Albany Bulb"
 ---
-
 
 # <center> About this website</center> 
 
