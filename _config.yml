@@ -24,8 +24,8 @@ description              : "Ocean World research"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/aria_let_me_in.gif
-logo                     : /assets/images/moosh_logo.PNG 
+teaser                   : /assets/images/placeholder_moosh.jpg 
+logo                     : /assets/images/aria_let_me_in.gif
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
 # Site Author
@@ -107,18 +107,17 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  #- jekyll-feed
 
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jekyll-include-cache
-
+  #- jekyll-feed
 
 # Archives
 #  Type
