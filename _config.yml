@@ -18,13 +18,13 @@ minimal_mistakes_skin  : "air" # "air", "aqua", "contrast", "dark", "dirt", "neo
 locale                   : "en-US"
 title                    : "Ryu Akiba"
 title_separator          : "|"
-subtitle                 : "in construction"
+subtitle                 : "under construction"
 name                     : "Ryu Akiba"
 description              : "Ocean World research"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/placeholder_moosh.jpg 
+teaser                   : /assets/images/aria_let_me_in.gif
 logo                     : /assets/images/moosh_logo.PNG 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 
