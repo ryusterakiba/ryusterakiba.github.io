@@ -36,24 +36,16 @@ author:
   location         : "Somewhere in LA"
   email            : "ryusterakiba@berkeley.edu"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
+      url: "mailto:ryusterakiba@berkeley.edu"
+    - label: "Github home"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ryusterakiba"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0002-2681-3195"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+
 
 # Site Footer
 footer:
