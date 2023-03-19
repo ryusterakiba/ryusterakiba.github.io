@@ -1,0 +1,17 @@
+# /_data/authors.yml
+
+Ryu Akiba:
+  name             : "Ryu Akiba"
+  avatar           : "/assets/images/ryu_kyoto.JPG"
+  bio              : "Ryunosuke (**Ryu**) Akiba"
+  location         : "Somewhere in LA"
+  links:
+    - label: "Github home"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ryusterakiba"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0002-2681-3195"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ryusterakiba@berkeley.edu"
