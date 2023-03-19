@@ -31,7 +31,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # Site Author
 author:
   name             : "Ryu Akiba"
-  avatar           : "/assets/images/ryu_kyoto.JPG"
+  avatar           : "assets/images/ryu_kyoto.JPG"
   bio              : "Ryunosuke (Ryu) Akiba"
   location         : "Somewhere in LA"
   email            : "ryusterakiba@berkeley.edu"
