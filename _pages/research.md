@@ -22,5 +22,13 @@ I work on ocean worlds like Europa
 
 ## <center>Papers</center>
 
+<p align="justify">
+
+<ul>
+
 <li>Probing the Icy Shell Structure of Ocean Worlds with Gravity–Topography Admittance <a
 href="https://doi.org/10.3847/PSJ/ac4d2b">Akiba, Ermakov, and Militzer (2022) </a> </li>
+
+
+</ul>
+</p>
