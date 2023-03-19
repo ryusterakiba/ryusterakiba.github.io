@@ -14,7 +14,5 @@ Ryu Akiba:
     - label: "ORCID"
       icon: "fas fa-fw fa-link"
       url: "https://orcid.org/0000-0002-2681-3195"
-    - label: "CV"
-      # url: 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
