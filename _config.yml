@@ -178,3 +178,18 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+
+footer:
+  links:
+    - label: "Github home"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ryusterakiba"
+    - label: "ORCID"
+      icon: "fas fa-fw fa-link"
+      url: "https://orcid.org/0000-0002-2681-3195"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ryusterakiba@berkeley.edu"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
