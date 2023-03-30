@@ -1,10 +1,10 @@
 # /_data/authors.yml
 
 Ryu Akiba:
-  name             : "Ryu Akiba"
+  name             : "Ryunosuke (**Ryu**) Akiba"
   avatar           : "/assets/images/ryu_kyoto.JPG"
-  bio              : "Ryunosuke (**Ryu**) Akiba"
-  location         : "Somewhere in LA"
+  bio              : "PhD student in Planetary Science at University of California, Santa Cruz"
+  location         : "Los Angeles, CA"
   links:
     - label: "Github home"
       icon: "fab fa-fw fa-github"
@@ -15,3 +15,6 @@ Ryu Akiba:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ryusterakiba@berkeley.edu"
+    # - label: "CV"
+    #   icon: "fas fa-file"
+    #   url: ""
