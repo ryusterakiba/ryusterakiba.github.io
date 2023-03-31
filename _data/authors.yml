@@ -1,7 +1,7 @@
 # /_data/authors.yml
 
 Ryu Akiba:
-  name             : "Ryunosuke (**Ryu**) Akiba"
+  name             : "Ryunosuke (Ryu) Akiba"
   avatar           : "/assets/images/ryu_kyoto.JPG"
   bio              : "PhD student in Planetary Science at University of California, Santa Cruz"
   location         : "Los Angeles, CA"
