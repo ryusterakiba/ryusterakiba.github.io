@@ -19,6 +19,6 @@ I love math and using it to understand the motion of fluids. I did my undergradu
 
 <p align="justify">
 
-The cat photos all around are of the sweet but also stupid sisters Mushu and Aria whom I lived with in college. 
+The cat photos are of Mushu (Moosh) and Aria. 
 
 </p>
