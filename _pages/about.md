@@ -7,8 +7,8 @@ title: "About"
 excerpt: "About me"
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/placeholder_moosh.jpg
-  caption: "A sleepy moosh"
+  overlay_image: /assets/images/kaya_sunset.jpg
+  caption: "Sunset from Mt.Kaya"
 ---
 
 <p align="justify">
