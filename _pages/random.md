@@ -1,6 +1,6 @@
 ---
 layout: single 
-permalink: /about/
+permalink: /random/
 author_profile: true
 author: Ryu Akiba
 title: "Random"
