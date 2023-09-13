@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin  : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin  : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -182,14 +182,3 @@ defaults:
 
 footer:
   links:
-    - label: "Github home"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ryusterakiba"
-    - label: "ORCID"
-      icon: "fas fa-fw fa-link"
-      url: "https://orcid.org/0000-0002-2681-3195"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ryusterakiba@berkeley.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"

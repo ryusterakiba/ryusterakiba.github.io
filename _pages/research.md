@@ -7,7 +7,7 @@ title: "Research"
 toc: true
 toc_label: "Research"
 toc_icon: "sun"
-excerpt: "Oceans Everywhere!"
+excerpt: ""
 header:
   overlay_color: "#000"
   overlay_image: /assets/images/placeholder_moosh.jpg
@@ -18,8 +18,7 @@ header:
 
 <p align="justify">
 
-There exist oceans outside of Earth in our solar system within icy moons. These oceans, for 
-example inside Europa or Enceladus, are exciting places to look for habitable environments for extraterrestrial life. Much remains unknown about these oceans, such as the thickness of the overlying ice shell, the properties of the salty ocean, and what processes are occuring at the seafloor. It is an exciting time to be looking at Ocean Worlds, as ESA's JUICE mission just successfully launched and NASA's Europa Clipper is expected to launch soon. 
+There exist liquid water oceans outside of Earth in our solar system. These oceans within icy moons, such as Europa or Enceladus, are exciting places to look for habitable, extraterrestrial environments. Much remains unknown about these oceans, such as the thickness of the overlying ice shell, the properties of the salty ocean, and what processes are occuring at the seafloor. It is an exciting time to be looking at Ocean Worlds, as ESA's JUICE mission just successfully launched and NASA's Europa Clipper is expected to launch soon. Meanwhile, I believe it is worthwhile to look processes that occur in Earth's oceans beneath ice sheets and on the deep seafloor. 
 
 </p>
 
@@ -35,8 +34,9 @@ I am interested in the internal structure of these icy moons and what can be det
 
 <p align='justify'> 
 
-Another interesting aspect of some Ocean Worlds (e.g. Europa and Enceladus) is the potential presence of hydrothermal activity at the interface between the ocean and rocky mantle. Hydrothermal circulation can transport energy and material into the ocean and may be an important habitable environment on these icy satellites. We do not have the means yet to directly observe these seafloors, however, we have great analogues here on Earth. I'm very interested in this intersection of oceanography and planetary science. 
+Another interesting aspect of some Ocean Worlds (e.g. Europa and Enceladus) is the potential presence of hydrothermal activity at the interface between the ocean and rocky mantle. Hydrothermal circulation can transport energy and material into the ocean and may be an important habitable environment on these icy satellites. We do not have the means yet to directly observe these seafloors, however, we have great analogues here on Earth. 
 
+On Earth, hydrothermal circulation accounts for a large part of the overall heat flux of the planet. Although perhaps not as obvious as the high temperature hydrothermal vents at mid ocean ridges that produce black smokers, low temperature circulation on ridge flanks is very important. Investigation and modeling of a low temperature hydrothermal system on the Cocos Plate will tell us more. 
 </p>
 
 ## <center>Papers</center>
