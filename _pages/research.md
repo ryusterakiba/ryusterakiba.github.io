@@ -48,7 +48,26 @@ On Earth, hydrothermal circulation accounts for a large part of the overall heat
 <li>Probing the Icy Shell Structure of Ocean Worlds with Gravity–Topography Admittance <a
 href="https://doi.org/10.3847/PSJ/ac4d2b">Akiba, Ermakov, and Militzer (2022) </a> </li>
 
-
 </ul>
 </p>
 
+## <center>Conferences</center>
+
+<p align="justify">
+
+<ul>
+
+
+<li> (American Geophysical Union Fall Meeting 2020) Probing the Icy Shell Structure of Ocean Worlds with Gravity–Topography Admittance <a 
+href="https://agu2020fallmeeting-agu.ipostersessions.com/default.aspx?s=AD-15-2B-83-04-D0-39-FD-86-A2-E9-11-17-57-E6-66#">Akiba, Ermakov, and Militzer </a> </li>
+
+<li> (Ocean Sciences Meeting 2022) NOAA’S RECENT DEVELOPMENT AND TEST OF A NEW SUBSURFACE ELLIPSOID ADCP BUOY (SEABY) SYSTEM <a 
+href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/2257">Akiba, Heitsenrether, Fiorentino, and Kirk </a> </li>
+
+<li> (EGU 2023) Ganymede's internal structure after Juno and before JUICE. <a 
+href="https://doi.org/10.5194/egusphere-egu23-10295"> Ermakov, Akiba, Gomez Casajus, Zannoni, Keane, Tortora, Park, Buccino, Durante, Parisi, Stevenson, Zhang, Brown, Levin, and Bolton. </a>
+</li>
+
+</ul>
+
+</p>
